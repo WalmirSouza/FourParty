@@ -1,6 +1,5 @@
-# FourParty
-Repositório de Desenvolvimento do Projeto
+# Equipe:
+Luiz Coelho
+Walmir Souza
 
-
-
-salvo
+Data: 30/05/2017.
